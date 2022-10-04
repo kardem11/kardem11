@@ -15,10 +15,13 @@
 <a href="https://angular.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="açısal" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> </a>
 
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kardem11&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+
+![Kardem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kardem11&show_icons=true&theme=radical)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kardem11&theme=radical&layout=compact)
 
 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kardem11&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
 
 
 <!---
